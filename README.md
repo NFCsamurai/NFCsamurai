@@ -35,16 +35,5 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-Bash-white?style=flat-square&logo=gnu-bash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=black" />
-</p>
-
----
-
 <p align="center">
   <i>"Soft vibes, hard code."</i> <br>

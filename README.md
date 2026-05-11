@@ -1,16 +1,53 @@
-## Hi there 👋
+# 🌸 Z or Samurai 🌸
 
-<!--
-**NFCsamurai/NFCsamurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="120" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_the_Future-ffb1b1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Maryland_→_Japan-b1e3ff?style=for-the-badge&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About Me
+* **The Vision:** A student and IT enthusiast currently living in the US, but my heart is set on the mountains of Japan. 🏔️
+* **The Big Goal:** I'm currently architecting a Discord community that's going to redefine the platform. It's the biggest project I've ever touched.
+* **Currently Vibe:** Minimalist, soft anime aesthetics, and deep-diving into code.
+
+---
+
+### 🛠️ Tech Stack
+
+**I know these well:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Currently Leveling Up:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**The End-Game (Future Masteries):**
+`C` • `C++` • `C#` • `Lua` • `JavaScript` • `Java`
+
+---
+
+### 🌌 Projects & Progress
+- 🏗️ **The Untitled Club:** Building the most ambitious Discord server history has ever seen.
+- 🏠 **Samurai Home:** Developing a custom web space for my portfolio and creative works.
+- 🚀 **App Launcher:** Streamlining my Linux workflow.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=NFCsamurai&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb1b1&icon_color=b1e3ff&text_color=e0def4" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFCsamurai&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb1b1&text_color=e0def4" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Soft vibes, hard code."</i> <br>

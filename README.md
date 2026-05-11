@@ -36,12 +36,12 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NFCsamurai&show_icons=true&theme=vivid+pink&hide_border=true&title_color=ffb1b1&text_color=ffffff&icon_color=b1e3ff" alt="Samurai's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFCsamurai&layout=compact&theme=vivid+pink&hide_border=true&title_color=ffb1b1&text_color=ffffff" alt="Top Langs" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-Bash-white?style=flat-square&logo=gnu-bash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---

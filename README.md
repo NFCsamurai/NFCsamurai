@@ -37,8 +37,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=NFCsamurai&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb1b1&icon_color=b1e3ff&text_color=e0def4" />
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFCsamurai&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb1b1&text_color=e0def4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NFCsamurai&show_icons=true&theme=vivid+pink&hide_border=true&title_color=ffb1b1&text_color=ffffff&icon_color=b1e3ff" alt="Samurai's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFCsamurai&layout=compact&theme=vivid+pink&hide_border=true&title_color=ffb1b1&text_color=ffffff" alt="Top Langs" />
 </p>
 
 ---

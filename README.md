@@ -32,8 +32,6 @@
 
 ### 🌌 Projects & Progress
 - 🏗️ **The Untitled Club:** Building the most ambitious Discord server history has ever seen.
-- 🏠 **Samurai Home:** Developing a custom web space for my portfolio and creative works.
-- 🚀 **App Launcher:** Streamlining my Linux workflow.
 
 ---
 

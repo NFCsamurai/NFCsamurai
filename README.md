@@ -1,10 +1,6 @@
 # 🌸 Z or Samurai 🌸
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="120" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Status-Building_the_Future-ffb1b1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-U.S._→_Japan-b1e3ff?style=for-the-badge&logoColor=white" />
 </p>
